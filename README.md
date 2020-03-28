@@ -1,2 +1,2 @@
-# react-myblog
-My personal blog 
+# react-myLeasing
+Kiralama Web App
