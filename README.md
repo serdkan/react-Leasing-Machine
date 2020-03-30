@@ -1,2 +1,2 @@
-# react-myLeasing
+# react-LeasingMachine
 Kiralama Web App
